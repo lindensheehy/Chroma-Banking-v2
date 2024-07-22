@@ -1,0 +1,54 @@
+.section2-text2 {
+    line-height: 1.6;
+    font-size: 24px;
+    width: 50%;
+}
+
+.seperator {
+    height: 50px;
+}
+
+.form-group {
+    font-size: 24px;
+    margin: 20px;
+    align-items: center;
+}
+
+.sign-up-section {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+  
+.form-group {
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+}
+  
+.form-label {
+    flex: 1;
+    width: 300px;
+    text-align: right;
+    padding-right: 15px;
+}
+  
+.form-input {
+    flex: 2;
+}
+  
+.form-label label {
+    display: block;
+    width: 200px;
+    margin: 0;
+}
+  
+.form-input input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}

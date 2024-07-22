@@ -1,0 +1,70 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background: rgba(0, 85, 190, 0.6);
+}
+
+.Header h1 {
+  cursor: pointer;
+}
+
+.Header-left {
+  display: flex;
+  align-items: center;
+}
+
+.Header-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 15px 0 15px 30px;
+  background: linear-gradient(to left, #3a0ca3, #7209b7);
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+}
+
+.Header-subtitle {
+  color: white;
+  font-size: 1rem;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.Header-right {
+  display: flex;
+  align-items: center;
+}
+
+.Header-subtitle-box {
+  border: none;
+  padding: 8px 16px;
+}
+
+.Header-subtitle + .Header-button {
+  margin-left: 10px;
+}
+
+.Header-button-box {
+  border: none;
+  padding: 8px 16px;
+}
+
+.Header-button {
+  background-color: rgba(192, 192, 192, 0.5);
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.Header-button:hover {
+  background: linear-gradient(to left, rgba(58, 12, 163, 0.6), rgba(114, 9, 183, 0.6));
+}
+
+.Header-right {
+  margin-left: auto;
+}
