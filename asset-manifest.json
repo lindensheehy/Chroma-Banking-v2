@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chroma-Banking-v2/static/css/main.220ae516.css",
+    "main.js": "/Chroma-Banking-v2/static/js/main.3bacc47e.js",
+    "static/js/453.2a82e7ac.chunk.js": "/Chroma-Banking-v2/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/Chroma-Banking-v2/index.html",
+    "main.220ae516.css.map": "/Chroma-Banking-v2/static/css/main.220ae516.css.map",
+    "main.3bacc47e.js.map": "/Chroma-Banking-v2/static/js/main.3bacc47e.js.map",
+    "453.2a82e7ac.chunk.js.map": "/Chroma-Banking-v2/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.220ae516.css",
+    "static/js/main.3bacc47e.js"
+  ]
+}
